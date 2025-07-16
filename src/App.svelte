@@ -53,7 +53,7 @@
       image:
         "https://images.pexels.com/photos/1031588/pexels-photo-1031588.jpeg",
       title: "Reading",
-      description: "Books help me grow intellectually and creatively.",
+      description: "Books help me grow intellectually",
     },
     {
       image:
